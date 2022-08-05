@@ -1,0 +1,2 @@
+#JWT API Registration - Login - Verification - Update 
+Implementing how to authenticate a user using REST API and JSON Web Tokens or JWT. This will cover a basic sign-up or registration, login, and logout operations, updating a user account
